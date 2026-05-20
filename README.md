@@ -107,8 +107,8 @@ Total training corpus: 43,762 videos across 8 sources.
     <td width="50%" align="center"><b>Fake (InSwapper)</b></td>
   </tr>
   <tr>
-    <td><video src="examples/inswapper/real.mp4" width="100%" controls></video></td>
-    <td><video src="examples/inswapper/fake_inswapper.mp4" width="100%" controls></video></td>
+    <td><video src="https://githubusercontent.com" width="100%" controls></video></td>
+    <td><video src="https://githubusercontent.com" width="100%" controls></video></td>
   </tr>
 </table>
 
@@ -119,10 +119,11 @@ Total training corpus: 43,762 videos across 8 sources.
     <td width="50%" align="center"><b>Fake (SDXL)</b></td>
   </tr>
   <tr>
-    <td><video src="examples/sdxl/real.mp4" width="100%" controls></video></td>
-    <td><video src="examples/sdxl/fake_sdxl.mp4" width="100%" controls></video></td>
+    <td><video src="https://githubusercontent.com" width="100%" controls></video></td>
+    <td><video src="https://githubusercontent.com" width="100%" controls></video></td>
   </tr>
 </table>
+
 
 
 ## Model Interpretability (Grad-CAM)
