@@ -98,6 +98,33 @@ Classical baselines (Xception, EfficientNet-B4) on standard benchmarks (FF++):
 
 Total training corpus: 43,762 videos across 8 sources.
 
+### Examples Demonstration
+
+#### 1. InSwapper (Face Swap Detection)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center"><b>Real Video</b></td>
+    <td width="50%" align="center"><b>Fake (InSwapper)</b></td>
+  </tr>
+  <tr>
+    <td><video src="examples/inswapper/real.mp4" width="100%" controls></video></td>
+    <td><video src="examples/inswapper/fake_inswapper.mp4" width="100%" controls></video></td>
+  </tr>
+</table>
+
+#### 2. SDXL (Diffusion-Generated Detection)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center"><b>Real Video</b></td>
+    <td width="50%" align="center"><b>Fake (SDXL)</b></td>
+  </tr>
+  <tr>
+    <td><video src="examples/sdxl/real.mp4" width="100%" controls></video></td>
+    <td><video src="examples/sdxl/fake_sdxl.mp4" width="100%" controls></video></td>
+  </tr>
+</table>
+
+
 ## Model Interpretability (Grad-CAM)
 
 ![GradCAM](examples/GradCAM.png)
