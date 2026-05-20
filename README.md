@@ -100,29 +100,21 @@ Total training corpus: 43,762 videos across 8 sources.
 
 ### Examples Demonstration
 
-#### 1. InSwapper (Face Swap Detection)
-<table width="100%">
-  <tr>
-    <td width="50%" align="center"><b>Real Video</b></td>
-    <td width="50%" align="center"><b>Fake (InSwapper)</b></td>
-  </tr>
-  <tr>
-    <td><video src="https://githubusercontent.com" width="100%" controls></video></td>
-    <td><video src="https://githubusercontent.com" width="100%" controls></video></td>
-  </tr>
-</table>
+#### InSwapper (Face Swap Detection)
 
-#### 2. SDXL (Diffusion-Generated Detection)
-<table width="100%">
-  <tr>
-    <td width="50%" align="center"><b>Real Video</b></td>
-    <td width="50%" align="center"><b>Fake (SDXL)</b></td>
-  </tr>
-  <tr>
-    <td><video src="https://githubusercontent.com" width="100%" controls></video></td>
-    <td><video src="https://githubusercontent.com" width="100%" controls></video></td>
-  </tr>
-</table>
+| Real | Fake (InSwapper) |
+|------|------------------|
+| ![Real GIF](examples/inswapper/real.gif) | ![Fake GIF](examples/inswapper/fake_inswapper.gif) |
+| [📥 Download full video](https://github.com/krassiaa/deepfake-detection/raw/main/examples/inswapper/real.mp4) | [📥 Download full video](https://github.com/krassiaa/deepfake-detection/raw/main/examples/inswapper/fake_inswapper.mp4) |
+
+#### SDXL (Diffusion-Generated Detection)
+
+| Real | Fake (SDXL) |
+|------|-------------|
+| ![Real GIF](examples/sdxl/real.gif) | ![Fake GIF](examples/sdxl/fake_sdxl.gif) |
+| [📥 Download full video](https://github.com/krassiaa/deepfake-detection/raw/main/examples/sdxl/real.mp4) | [📥 Download full video](https://github.com/krassiaa/deepfake-detection/raw/main/examples/sdxl/fake_sdxl.mp4) |
+
+*GIF previews are short clips. Click links below each GIF to download the full MP4 video.*
 
 
 
