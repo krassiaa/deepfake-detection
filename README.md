@@ -1,7 +1,7 @@
-# Deepfake Detection on Edge Devices
+# Deepfake Detection on Edge Devices — Commercial R&D Project
 
-Master's thesis: Comparative analysis of lightweight architectures (MobileNetV4, DINOv2)
-for deepfake detection on mobile and edge devices.
+Commercial R&D project: Comparative analysis of lightweight architectures (MobileNetV4, DINOv2)
+for deepfake detection on mobile and edge devices. Developed during industrial internship (2025–2026).
 
 ## Research Goal
 
@@ -163,4 +163,5 @@ Any use beyond this license requires written permission from the author.
 
 ## Status
 
-Master's thesis, 2026. Dataset and code available upon request.
+Commercial R&D project, completed during industrial internship (Sep 2025 – May 2026). 
+Dataset and inference code available upon request.
